@@ -415,16 +415,19 @@ nav .fas {
     width: 300px;
     height: 300px;
     float: left;
-    margin-right: 20px;
+    margin-right: 50px;
     border: 0px solid #fffeff; 
     border-radius: 50%; 
     box-shadow: 0 0 15px 2px #e2ffdd;
+    
 }
 
 .logo1:hover {
-  transition: all ease-in 0.3s;
-        
-    transform: scale(1.1); 
+ transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1); 
 }
 
 
