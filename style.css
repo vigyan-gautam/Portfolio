@@ -3148,7 +3148,7 @@ span.text {
 
 #progress-bar-container #line-progress {
     content: " ";
-    width: 3%;
+    width: 0%;
     height: 100%;
     background: #207893;
     background: linear-gradient(to right, #9DB2BF 0%, #51698b 100%);
